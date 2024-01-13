@@ -14,6 +14,12 @@
 .first-div h1{
     font-size: 50px;
 }
+.first-div h2{
+    padding: 30px;
+    font-size:20px;
+    
+
+}
 .second-div{
     padding: 50px;
     font-size: 30px;
