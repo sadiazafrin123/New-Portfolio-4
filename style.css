@@ -1,13 +1,13 @@
 .section{
-    background-color: orangered;
-    padding: 70px;
+    background-color:#F98387;
+    padding: 50px;
     color: white;
 }
 .first-div{
     display: flex;
     
-    padding: 20px;
-    gap: 30px;
+    padding: 15px;
+    gap: 50px;
 }
 
 
@@ -17,11 +17,25 @@
 .first-div h2{
     padding: 30px;
     font-size:20px;
+}
+.first-div button{
+    padding: 30px;
+    font-size: 20px;
     
-
 }
 .second-div{
     padding: 50px;
     font-size: 30px;
     text-align: center;
+}
+.second-div h1{
+    font-size: 50px;
+
+}
+.div-2{
+    text-align: center;
+    padding: 150px;
+}
+.div-2 h1{
+    font-size: 50px;
 }
