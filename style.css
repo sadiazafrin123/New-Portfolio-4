@@ -39,3 +39,7 @@
 .div-2 h1{
     font-size: 50px;
 }
+.parent-div{
+    display: flex;
+    padding: 50px;
+}
